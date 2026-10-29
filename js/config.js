@@ -110,6 +110,10 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
+    madou: {
+        api: 'https://91md.me/api.php/provide/vod',
+        name: '麻豆视频'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
